@@ -1,5 +1,24 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on<br>Soy estudiante de la Tecnicatura en Programación en UTN. Mis primeros pasos en la programación los di con lenguajes como C, C++ y utilizando PSeInt para desarrollar habilidades en lógica de programación. Actualmente, me estoy enfocando en el desarrollo web y bases de datos, aprendiendo HTML y CSS para crear interfaces atractivas y funcionales.<br><br>👥 I’m looking to collaborate on<br>Proyectos de desarrollo web que impliquen trabajo con JavaScript, SQL o bases de datos, y que me permitan mejorar mis habilidades.<br><br>🤝 I’m looking for help with<br>Fortalecer mis conocimientos en JavaScript y Python para mejorar la resolución de problemas lógicos y programación backend.<br><br>🌱 I’m currently learning<br>JavaScript y SQL, y estoy comenzando a profundizar en Python.<br><br>💬 Ask me about<br>Mis experiencias aprendiendo lenguajes de programación y mis proyectos en desarrollo web, como 'Game Hub'.<br><br>⚡ Fun fact<br>La programación se ha convertido en una verdadera pasión para mí y me encantaría dedicarme a esta profesión en el futuro.<br><br>📫 Puedes contactarme en LinkedIn
+💫 About Me
+👨‍💻 I’m currently working on
+Soy estudiante de la Tecnicatura en Programación en UTN. Mis primeros pasos en la programación los di con C, C++ y PSeInt, desarrollando habilidades en lógica. Hoy en día, estoy enfocado en el desarrollo web full stack. Trabajo con tecnologías como React, Express y SQLite para construir aplicaciones modernas y funcionales.
+
+👥 I’m looking to collaborate on
+Proyectos de desarrollo web full stack, especialmente aquellos que involucren JavaScript, bases de datos y frameworks modernos como React y Express. Me interesa trabajar en equipo y aprender de nuevas experiencias.
+
+🤝 I’m looking for help with
+Profundizar mis conocimientos en backend con Node.js y mejorar mis habilidades en Python, especialmente para el desarrollo de APIs y automatización de tareas.
+
+🌱 I’m currently learning
+JavaScript avanzado, Python y el ecosistema de desarrollo con Express, React y SQLite. También estoy explorando conceptos de control de versiones con Git y metodologías ágiles como Scrum.
+
+💬 Ask me about
+Mi experiencia construyendo aplicaciones web desde cero, cómo abordo el aprendizaje autodidacta en programación y mis proyectos como "Game Hub", donde combiné frontend y backend.
+
+⚡ Fun fact
+La programación no solo es una carrera para mí, sino una pasión. Me entusiasma la idea de resolver problemas reales a través del código y seguir creciendo como desarrollador.
+
+📫 Puedes contactarme en LinkedIn
+https://www.linkedin.com/in/juan-pablo-fernandez-alvarez-383a09298/
 
 
 ## 🌐 Socials:
