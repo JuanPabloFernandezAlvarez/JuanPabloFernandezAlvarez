@@ -1,21 +1,48 @@
 💫 About Me
+
 👨‍💻 I’m currently working on
-Soy estudiante de la Tecnicatura en Programación en UTN. Mis primeros pasos en la programación los di con C, C++ y PSeInt, desarrollando habilidades en lógica. Hoy en día, estoy enfocado en el desarrollo web full stack. Trabajo con tecnologías como React, Express y SQLite para construir aplicaciones modernas y funcionales.
+Estoy finalizando la Tecnicatura Universitaria en Programación (UTN) — todas las materias aprobadas, solo pendiente el TIF.
+Mis primeros pasos fueron con C, C++ y PSeInt, lo que me dio una base sólida en lógica.
+Hoy me desempeño como Desarrollador Fullstack, trabajando con tecnologías como React, Express, SQLite, .NET, C# y Entity Framework Core.
+Participé en el desarrollo de GymHub, aportando en arquitectura, endpoints, repositorios y estructura general del backend.
 
 👥 I’m looking to collaborate on
-Proyectos de desarrollo web full stack, especialmente aquellos que involucren JavaScript, bases de datos y frameworks modernos como React y Express. Me interesa trabajar en equipo y aprender de nuevas experiencias.
+
+Proyectos full stack que involucren tanto frontend como backend, especialmente con:
+JavaScript, React, Node.js, SQL, .NET, y frameworks modernos.
+Me interesa trabajar en equipos con buenas prácticas y enfoque en escalabilidad.
 
 🤝 I’m looking for help with
-Profundizar mis conocimientos en backend con Node.js y mejorar mis habilidades en Python, especialmente para el desarrollo de APIs y automatización de tareas.
+
+Profundizar en Node.js y arquitectura backend.
+
+Mejorar mis habilidades en Python para APIs y automatización.
+
+Crecer en DevOps: Docker, CI/CD y automatización de despliegues.
 
 🌱 I’m currently learning
-JavaScript avanzado, Python y el ecosistema de desarrollo con Express, React y SQLite. También estoy explorando conceptos de control de versiones con Git y metodologías ágiles como Scrum.
+
+Arquitectura limpia, microservicios y mejores prácticas con .NET.
+
+JavaScript avanzado y patrones de diseño.
+
+Python para scripting y desarrollo API.
+
+Git, flujos profesionales y metodologías ágiles (Scrum).
+
+Docker, pipelines y flujos DevOps.
 
 💬 Ask me about
-Mi experiencia construyendo aplicaciones web desde cero, cómo abordo el aprendizaje autodidacta en programación y mis proyectos como "Game Hub", donde combiné frontend y backend.
+
+Cómo construyo aplicaciones web fullstack desde cero.
+
+Cómo organizo mi aprendizaje autodidacta.
+
+Mi trabajo en GymHub y mi enfoque en arquitectura y buenas prácticas.
 
 ⚡ Fun fact
-La programación no solo es una carrera para mí, sino una pasión. Me entusiasma la idea de resolver problemas reales a través del código y seguir creciendo como desarrollador.
+
+La programación es más que un trabajo para mí: es una pasión. Me encanta resolver problemas reales con código y seguir creciendo cada día como desarrollador.
 
 📫 Puedes contactarme en LinkedIn
 https://www.linkedin.com/in/juan-pablo-fernandez-alvarez-383a09298/
